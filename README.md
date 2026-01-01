@@ -26,6 +26,7 @@ channel-images/
 
 ## 📸 Preview
 This project visually replicates the YouTube homepage UI.
+![image alt](https://github.com/offlvenkatesh/youtube-ui-clone/blob/b4fc10d7fb083266b691475ee136fc40d52a6829/preview.png)
 
 ## 📌 Note
 This is a **static UI clone** created for learning and practice purposes only.  
